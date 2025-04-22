@@ -24,3 +24,4 @@
 <li>HTML5</li>
 <li>CSS3</li>
 </ul>
+<img src="https://github.com/evelincristina24/Projeto-1-CSS/blob/main/img/Captura%20de%20tela%202025-04-21%20234537.png?raw=true">
